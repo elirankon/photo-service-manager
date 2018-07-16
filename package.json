@@ -1,7 +1,7 @@
 {
-    "name": "vorpal-boilerplate",
+    "name": "photo-service-manager",
     "version": "0.0.1",
-    "description": "Vorpal Application Boilerplate",
+    "description": "Manager for photo services (Flickr to instagram, etc...)",
     "main": "index.js",
     "scripts": {
         "test": "NODE_ENV=test ./node_modules/nyc/bin/nyc.js ./node_modules/mocha/bin/mocha --recursive && ./node_modules/nyc/bin/nyc.js report --reporter=text-lcov | ./node_modules/coveralls/bin/coveralls.js",
@@ -13,7 +13,7 @@
     },
     "repository": {
         "type": "git",
-        "url": "git+https://github.com/elirankon/vorpal-boilerplate.git"
+        "url": "git+https://github.com/elirankon/photo-service-manager.git"
     },
     "keywords": [
         "vorpal",
@@ -27,9 +27,9 @@
     "author": "Eliran Kononowicz",
     "license": "MIT",
     "bugs": {
-        "url": "https://github.com/elirankon/vorpal-boilerplate/issues"
+        "url": "https://github.com/elirankon/photo-service-manager/issues"
     },
-    "homepage": "https://github.com/elirankon/vorpal-boilerplate#readme",
+    "homepage": "https://github.com/elirankon/photo-service-manager#readme",
     "dependencies": {
         "vorpal": "^1.12.0"
     },
