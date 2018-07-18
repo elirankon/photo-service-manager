@@ -1,5 +1,6 @@
 const Vorpal = require('vorpal');
 const fs = require('fs');
+require('dotenv').config();
 
 function main() {
     const vorpal = new Vorpal();

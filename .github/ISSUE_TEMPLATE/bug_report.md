@@ -20,8 +20,8 @@ A clear and concise description of what you expected to happen.
 **Screenshots**
 If applicable, add screenshots to help explain your problem.
 
-**Converter Version**
-What version of playlist converter are you using?
+**Manager Version**
+What version of photo service manager are you using?
 
 **Affected Service**
 What are your source and target services?
